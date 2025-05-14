@@ -1,0 +1,36 @@
+#calculatorgrid{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5rem;
+}
+h1{
+    border-radius: 1rem;
+    background-color: lightgreen;
+    padding: 1rem;
+}
+#convert {
+    border-radius: 50%;
+    border: 2px solid #000;
+    object-fit: cover;
+    padding: 0.30rem;
+}
+
+#calculator{
+    max-width: 42rem;
+}
+#r1,#r2{
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+}
+#r2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 1rem;
+    border: 1px solid lightgreen;
+}
+
+#r3{
+    padding: 2rem;
+}
