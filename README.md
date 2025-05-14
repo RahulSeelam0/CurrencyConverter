@@ -5,7 +5,7 @@ A simple and interactive web-based Currency Converter that allows users to conve
 
 ## 🌐 Live Demo
 
-[Click here to try the live demo](https://rahulseelam0.github.io/CurencyConvertor/)
+[Click here to try the live demo](https://rahulseelam0.github.io/CurrencyConverter/)
 
 ---
 
