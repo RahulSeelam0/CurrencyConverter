@@ -32,11 +32,11 @@ A simple and interactive web-based Currency Converter that allows users to conve
 
 ## 📂 Project Structure
 
-├── index.html # Main HTML structure
-├── style.css # Custom styling
-├── script.js # JavaScript logic
-├── codes.js # Contains countryList mapping
-├── README.md # This file
+- ├── index.html # Main HTML structure
+- ├── style.css # Custom styling
+- ├── script.js # JavaScript logic
+- ├── codes.js # Contains countryList mapping
+- ├── README.md # This file
 
 ---
 
