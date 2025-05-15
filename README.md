@@ -58,7 +58,7 @@ Clone this repository:
 bash
 Copy
 Edit
-git clone https://github.com/your-username/currency-converter.git
+git clone https://github.com/RahulSeelam0/CurrencyConverter.git
 Open index.html in your browser.
 
 Done ✅
